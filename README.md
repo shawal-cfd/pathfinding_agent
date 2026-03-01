@@ -17,7 +17,11 @@ A Python application implementing informed search algorithms (GBFS and A*) for g
 ## Installation
 
 ```bash
+
 pip install pygame
+=======
+pip install -r requirements.txt
+
 ```
 
 ## Usage
